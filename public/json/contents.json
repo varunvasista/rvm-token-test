@@ -1,0 +1,433 @@
+{
+    "heroSection": {
+        "title": "Discover RVM Token",
+        "subTitle": "Your Pathway to Sustainable Recycling",
+        "paragraph": "Embark on a transformative journey with RVM Token, where innovation meets sustainability. Explore a groundbreaking solution to waste management that incentivizes eco-conscious choices.",
+        "whyChooseRVMVideoId": "kyzruLAfxSE?si=VbN0U9LPMFl4VbRl",
+        "whyChooseRVMVideoTitle": "Why RVM?"
+    },
+    "copyTokenSection": {
+        "text": "TOKEN CONTRACT ADDRESS (NEVER SEND FUNDS OR CONSIDER LOST)",
+        "etherWalletLink": "https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-cryptocurrency-and-how-does-it-work/"
+    },
+    "howToBuySection": {
+        "title": [
+            "How",
+            "to Buy?"
+        ],
+        "data": [
+            {
+                "subTitle": "Buy RVM Token securely via EVM Wallet (BSC)",
+                "paragraph": [
+                    "Click on Connect Wallet button and connect your account in the EVM Wallet to RVM Token website",
+                    "Go to Presale section and select the currency you want to use to buy RVM Token and enter the amount you want to buy and click on Buy button to proceed and confirm the transaction in your wallet",
+                    "Wait till the RVM Token Presale is completed and the RVM Token can be claimed it in the Presale section and will be transferred to your wallet instantly"
+                ]
+            },
+            {
+                "subTitle": "Buy RVM Token securely via RVMT System",
+                "paragraph": [
+                    "Click Login/Signup in the Presale Box, In the Home Page of RVMT System click ADD in the Receiving Wallet section and enter your Binance Smart Chain (BNB) Wallet Address in the popup open and click Add Wallet",
+                    "Click on Buy Token in the Home Page of RVMT System, Select the currency and enter the amount you want to buy and click Make Payment, Select Pay via Crypto and Click Buy Token and send your funds to the mentioned address and enter your sending address in the popup and Confirm Payment",
+                    "Wait for the admin to verify your transaction and approve your purchase, Wait till the RVM Token Presale is completed and the RVM Token can be claimed it in the Presale section and will be transferred to your wallet instantly"
+                ]
+            }
+        ],
+        "videoTitle": "WATCH VIDEO ON HOW TO BUY RVMT TOKEN",
+        "evmWalletVideoTitle": "How to Buy RVMT Token using EVM Wallet",
+        "evmWalletVideoId": "SSo_EIwHSd4?si=TqiCC7zpiOmlpguW",
+        "rvmtSystemVideoTitle": "How to Buy RVMT Token using RVMT System",
+        "rvmtSystemVideoId": "bBC-nXj3Ng4?si=4lJSiNBHq2ZthVuz"
+    },
+    "whatIsRVMTokenSection": {
+        "title": [
+            "What is",
+            "RVM Token?"
+        ],
+        "paragraph": [
+            "RVM token is a crypto token that aims to address the crisis of waste generation and its environmental impact by promoting responsible waste management practices and incentivizing recycling behaviour.",
+            "By encouraging individuals and communities to recycle through RVM machines, RVM token plays a pivotal role in reducing waste, conserving natural resources, and mitigating climate change."
+        ]
+    },
+    "whyChooseRVMSection": {
+        "title": "Why Choose RVM Coin?",
+        "subTitle": "Make a tangible difference by supporting eco-friendly initiatives through your everyday actions.",
+        "contents": [
+            {
+                "title": "Faster Transactions",
+                "description": "Experience quicker transaction processing with RVM Token, enhancing user efficiency and satisfaction."
+            },
+            {
+                "title": "Lower Fees",
+                "description": "Stay informed with integrated data insights and analytics within the RVM token ecosystem."
+            },
+            {
+                "title": "Rewards for Recycling",
+                "description": "Earn incentives for actively engaging in recycling activities through the RVM token platform."
+            },
+            {
+                "title": "Supporting Eco-Friendly Initiatives",
+                "description": "Contribute to environmental sustainability and support eco-friendly projects by choosing RVM Token."
+            }
+        ]
+    },
+    "aboutRVMSection": {
+        "title": [
+            "About",
+            "RVM"
+        ],
+        "paragraph": "RVM stands for Reverse Vending Machine, a purpose-built device aimed at collecting used containers such as plastic bottles and aluminium cans for recycling. These machines incentivize responsible waste disposal by providing rewards such as cash refunds, charitable donations, or discount vouchers. RVMs are pivotal in promoting recycling, minimizing waste, and fostering environmental awareness."
+    },
+    "rvmOverviewSection": {
+        "title": "RVM & CO2 - Overview",
+        "paragraph": "The partnership between RVM and CO2 centres on carbon offsetting and mitigating environmental impact. Through this collaboration, RVM Token endeavours to decrease its carbon footprint and support sustainability initiatives. This alliance underscores RVM Token's dedication to environmental responsibility and eco-conscious practices."
+    },
+    "tokenDistributionSection": {
+        "title": [
+            "Token",
+            "Distribution"
+        ],
+        "paragraph": "Explore our token distribution to gain insights into the allocation and distribution of RVM Token within our ecosystem.",
+        "table": [
+            {
+                "name": "Allocated To",
+                "value": "%"
+            },
+            {
+                "name": "Public Sales",
+                "value": "60"
+            },
+            {
+                "name": "Team",
+                "value": "20"
+            },
+            {
+                "name": "Marketing & Promotion",
+                "value": "8"
+            },
+            {
+                "name": "Charity",
+                "value": "2"
+            },
+            {
+                "name": "Reserve",
+                "value": "5"
+            },
+            {
+                "name": "Advisors",
+                "value": "2"
+            },
+            {
+                "name": "Research & Development",
+                "value": "3"
+            }
+        ]
+    },
+    "fundAllocationSection": {
+        "title": [
+            "Fund",
+            "Allocation"
+        ],
+        "table": [
+            {
+                "name": "Allocated To",
+                "value": "%"
+            },
+            {
+                "name": "Vending Machine Development & operations",
+                "value": "70"
+            },
+            {
+                "name": "Partners",
+                "value": "5"
+            },
+            {
+                "name": "Business & Development",
+                "value": "7"
+            },
+            {
+                "name": "Marketing",
+                "value": "15"
+            },
+            {
+                "name": "Legal & Registrations",
+                "value": "3"
+            }
+        ]
+    },
+    "roadmapSection": {
+        "title": "Roadmap",
+        "paragraph": "Our roadmap charts our path towards a sustainable future through innovative waste management solutions. Stay tuned for upcoming milestones.",
+        "data": [
+            {
+                "year": "2019",
+                "title": "RVM Conceptualization",
+                "details": [
+                    "Initiated the brainstorming and development phase for Reverse Vending Machines (RVM) to address the pressing issue of waste management."
+                ]
+            },
+            {
+                "year": "2020",
+                "title": "Endorsement Formalization",
+                "details": [
+                    "Secured an endorsement from Plastictecnic, marking a significant milestone in advancing the RVM vision, albeit delayed due to the challenges presented by the Covid-19 pandemic."
+                ]
+            },
+            {
+                "year": "2021",
+                "title": "Expanding Endorsements",
+                "details": [
+                    "Further expanded collaboration efforts by formalizing an endorsement from Cenviro, enhancing the network of stakeholders committed to sustainable waste management practices."
+                ]
+            },
+            {
+                "year": "2022",
+                "title": "Hardware & Software Development",
+                "details": [
+                    "Commenced the process of hardware sourcing and software development, laying the foundation for the technological infrastructure required to deploy RVMs effectively."
+                ]
+            },
+            {
+                "year": "2023",
+                "title": "Production and Development",
+                "details": [
+                    "Successfully acquired hardware components from international suppliers and completed the assembly of RVMs in Malaysia. Concurrently, local software development reached completion, ensuring seamless functionality."
+                ]
+            },
+            {
+                "year": "2024 Q1",
+                "title": "Q1 Achievements",
+                "details": [
+                    "Celebrated significant milestones, including the full development of both hardware and software components, marking a pivotal moment in the RVM project's journey.",
+                    "Formally launched the RVM initiative in collaboration with the Melaka state government, garnering official recognition and support for the endeavour.",
+                    "Strengthened partnerships with key brands, leveraging their influence and resources to amplify the impact of RVMs.",
+                    "Conducted a successful Token Public Sale, securing vital funding and community engagement for the project's advancement."
+                ]
+            },
+            {
+                "year": "2024 Q2",
+                "title": "Q2 Implementation",
+                "details": [
+                    "Rolled out the deployment of RVMs across strategic locations in Melaka, aiming to maximize accessibility and participation in recycling efforts.",
+                    "Launched community engagement initiatives centred around RVMs, utilizing these platforms as educational hubs to promote recycling awareness and environmental sustainability."
+                ]
+            },
+            {
+                "year": "2024 Q3",
+                "title": "Q3 Expansion and Governance Transition",
+                "details": [
+                    "Undertook significant steps towards growth and governance enhancement, including a successful public listing and geographical expansion beyond Melaka.",
+                    "Transitioned towards a more robust governance structure aligned with local regulations and global sustainability standards, ensuring responsible leadership and operations."
+                ]
+            },
+            {
+                "year": "2024 Q4",
+                "title": "Q4 Milestones",
+                "details": [
+                    "Achieved a listing on a top-tier exchange, increasing visibility and accessibility to a broader investor base.",
+                    "Set ambitious targets for RVM deployment, aiming to introduce 100 machines across Malaysia and establish global standards for RVM operations and collaborations."
+                ]
+            },
+            {
+                "year": "2025",
+                "title": "2025 Title",
+                "details": [
+                    "Enhanced platform functionality by implementing multi-wallet currency capabilities, enabling seamless transactions and user experiences.",
+                    "Expanded RVM deployment to 500 machines nationwide, while also venturing into neighbouring countries to amplify the project's impact on a regional scale.",
+                    "Collaborated with municipal waste management systems to optimize the collection and processing of recyclable materials, promoting efficiency and sustainability.",
+                    "Prioritized community engagement and data integration efforts to ensure continuous growth and adaptation in line with evolving environmental needs."
+                ]
+            },
+            {
+                "year": "2026",
+                "title": "2026 Title",
+                "details": [
+                    "Continued the global scaling of RVM operations, aiming to deploy 1000 machines nationwide and expand into international markets with a target of 2000 machines.",
+                    "Consolidated efforts towards technological innovation, community empowerment, and environmental stewardship to solidify RVM's position as a leading force in sustainable waste management.",
+                    "Through the implementation of the roadmap, RVM aims to establish itself as a leading player in the sustainable waste management industry, driving positive environmental impact while creating value for token holders and stakeholders."
+                ]
+            }
+        ],
+        "endParagraph": "Through the implementation of the roadmap, RVM aims to establish itself as a leading player in the sustainable waste management industry, driving positive environmental impact while creating value for token holders and stakeholders."
+    },
+    "ourTeamSection": {
+        "title": [
+            "Our",
+            "Team"
+        ],
+        "paragraph": "Meet the Dedicated Minds Behind RVM Token. Get to know the passionate individuals driving our mission and vision, learn about their expertise, and witness their commitment to sustainability.",
+        "members": [
+            {
+                "name": "Founder",
+                "role": "Lennon Tan",
+                "img": "./team/team1.jpeg",
+                "linkedin": "https://www.linkedin.com/company/the-wall-street-journal/"
+            },
+            {
+                "name": "CEO",
+                "role": "Ethan Lim",
+                "img": "./team/team2.jpeg",
+                "linkedin": "https://www.linkedin.com/company/the-wall-street-journal/"
+            },
+            {
+                "name": "CTO",
+                "role": "Darren Wong",
+                "img": "./team/team3.jpeg",
+                "linkedin": "https://www.linkedin.com/company/the-wall-street-journal/"
+            },
+            {
+                "name": "CFO",
+                "role": "Henry Liu",
+                "img": "./team/team4.jpeg",
+                "linkedin": "https://www.linkedin.com/company/the-wall-street-journal/"
+            },
+            {
+                "name": "Advisor (Plastic & Recycling)",
+                "role": "Alex Gan",
+                "img": "./team/team5.jpeg",
+                "linkedin": "https://www.linkedin.com/company/the-wall-street-journal/"
+            },
+            {
+                "name": "Advisor (Crypto Marketing & PR)",
+                "role": "Shahin Pilli",
+                "img": "./team/team6.jpeg",
+                "linkedin": "https://www.linkedin.com/company/the-wall-street-journal/"
+            }
+        ]
+    },
+    "ourPartnersSection": {
+        "title": [
+            "Our",
+            "Partners"
+        ],
+        "paragraph": "Discover Our Collaborations with Eco-Friendly Organizations. Explore how we work with like-minded entities to shape a sustainable future and make a positive impact on the environment.",
+        "partners": [
+            {
+                "name": "Partner 2",
+                "img": "./partners/partner2.png",
+                "url": "https://www.cenviro.com/"
+            },
+            {
+                "name": "Partner 3",
+                "img": "./partners/partner3.png",
+                "url": "https://www.cenviro.com/"
+            },
+            {
+                "name": "Partner 4",
+                "img": "./partners/partner4.png",
+                "url": "https://www.cenviro.com/"
+            }
+        ]
+    },
+    "featuredOnSection": {
+        "title": "Featured On",
+        "data": [
+            {
+                "title": "COINTELEGRAPH",
+                "logo": "./other/cointelegraph.png",
+                "details": {
+                    "title": "Transforming Waste Management: RVM Token to Launch Presale on May 15, 2024",
+                    "description": "The RVM Token, a cryptocurrency focused on sustainability, is set to transform how users approach waste management and recycling. By merging innovation with environmental responsibility......",
+                    "url": "https://cointelegraph.com/press-releases/transforming-waste-management-rvm-token-to-launch-presale-on-may-15-2024"
+                }
+            },
+            {
+                "title": "COINMARKETCAP",
+                "logo": "./other/coinmarketcap.png",
+                "details": {
+                    "title": "Transforming Waste Management: RVM Token to Launch Presale on May 15, 2024",
+                    "description": "The RVM Token, a cryptocurrency focused on sustainability, is set to transform how users approach waste management and recycling. By merging innovation with environmental responsibility......",
+                    "url": "https://coinmarketcap.com/community/articles/6635165a924c42734bec1fd6/"
+                }
+            },
+            {
+                "title": "BUSINESS INSIDER",
+                "logo": "./other/businessinsider.png",
+                "details": {
+                    "title": "Transforming Waste Management: RVM Token to Launch Presale on May 15, 2024",
+                    "description": "The RVM Token, a cryptocurrency focused on sustainability, is set to transform how users approach waste management and recycling. By merging innovation with environmental responsibility......",
+                    "url": "https://markets.businessinsider.com/news/stocks/transforming-waste-management-rvm-token-to-launch-presale-on-may-15-2024-1033328828"
+                }
+            },
+            {
+                "title": "COIN EDITION",
+                "logo": "./other/coinedition.png",
+                "details": {
+                    "title": "Transforming Waste Management: RVM Token to Launch Presale on May 15, 2024",
+                    "description": "The RVM Token, a cryptocurrency focused on sustainability, is set to transform how users approach waste management and recycling. By merging innovation with environmental responsibility......",
+                    "url": "https://coinedition.com/transforming-waste-management-rvm-token-to-launch-presale-on-may-15-2024/"
+                }
+            },
+            {
+                "title": "COIN SPEAKER",
+                "logo": "./other/coinspeaker.png",
+                "details": {
+                    "title": "Transforming Waste Management: RVM Token to Launch Presale on May 15, 2024",
+                    "description": "The RVM Token, a cryptocurrency focused on sustainability, is set to transform how users approach waste management and recycling. By merging innovation with environmental responsibility......",
+                    "url": "https://www.coinspeaker.com/rvm-token-to-launch-presale-on-may-15-2024/"
+                }
+            },
+            {
+                "title": "CRYPTO NEWS FLASH",
+                "logo": "./other/cryptoflashnews.png",
+                "details": {
+                    "title": "Transforming Waste Management: RVM Token to Launch Presale on May 15, 2024",
+                    "description": "The RVM Token, a cryptocurrency focused on sustainability, is set to transform how users approach waste management and recycling. By merging innovation with environmental responsibility......",
+                    "url": "https://www.crypto-news-flash.com/transforming-waste-management-rvm-token-to-launch-presale-on-may-15-2024/"
+                }
+            }
+        ]
+    },
+    "pressReleaseSection": {
+        "title": "Press Release"
+    },
+    "whitepaperSection": {
+        "title": "Whitepaper",
+        "paragraph": "Delve Into Our Comprehensive Whitepaper. Explore the technology, vision, and objectives of RVM Token in detail. Gain insights into the core principles driving our platform's innovation and sustainability efforts."
+    },
+    "faqSection": {
+        "title": [
+            "Fequently",
+            "Asked Questions"
+        ],
+        "paragraph": "Have Questions About RVM Token? Find Answers in Our FAQ Section. Explore common queries or reach out to us for more information.",
+        "items": [
+            {
+                "question": "How can I acquire RVM Coins?",
+                "answer": "RVM token is a crypto token that aims to address the crisis of waste generation and its environmental impact by promoting responsible waste management practices and incentivizing recycling behaviour."
+            },
+            {
+                "question": "What benefits do RVM Coins offer?",
+                "answer": "RVM token is a crypto token that aims to address the crisis of waste generation and its environmental impact by promoting responsible waste management practices and incentivizing recycling behaviour."
+            },
+            {
+                "question": "Is RVM Coin environmentally friendly?",
+                "answer": "RVM token is a crypto token that aims to address the crisis of waste generation and its environmental impact by promoting responsible waste management practices and incentivizing recycling behaviour."
+            },
+            {
+                "question": "How can I get involved with RVM Coin's community-driven initiatives?",
+                "answer": "RVM token is a crypto token that aims to address the crisis of waste generation and its environmental impact by promoting responsible waste management practices and incentivizing recycling behaviour."
+            },
+            {
+                "question": "What sets RVM Coin apart from other cryptocurrencies?",
+                "answer": "RVM token is a crypto token that aims to address the crisis of waste generation and its environmental impact by promoting responsible waste management practices and incentivizing recycling behaviour."
+            }
+        ]
+    },
+    "contactUsSection": {
+        "title": "Contact Us",
+        "subTitle": "Stay Updated to our Social Media channels",
+        "paragraph": "Have Questions or Feedback? Reach Out to Us. We're Here to Help.",
+        "links": {
+            "email": "enquiry@rvmtoken.io",
+            "instagram": "https://www.instagram.com/rvmtoken/",
+            "twitter": "https://twitter.com/rvmplus",
+            "youTube": "",
+            "telegram": "https://t.me/rvmtokencommunity"
+        }
+    },
+    "footerSection": {
+        "paragraph": "RVM stands for Reverse Vending Machine, a purpose-built device aimed at collecting used containers such as plastic bottles and aluminium cans for recycling. These machines incentivize responsible waste disposal by providing rewards such as cash refunds, charitable donations, or discount vouchers. RVMs are pivotal in promoting recycling, minimizing waste, and fostering environmental awareness.",
+        "rights": "2024 © RVM TOKEN ALL RIGHTS RESERVED."
+    }
+}
